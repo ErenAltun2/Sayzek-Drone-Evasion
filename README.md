@@ -109,11 +109,17 @@ Ultralytics YOLO (AGPL-3.0) kullanıldığı için bu depo **AGPL-3.0** ile lisa
 
 ## Atıf
 
+Bu projeyi akademik veya teknik çalışmalarınızda kullanıyorsanız, lütfen şu şekilde atıfta bulunun:
+
+## Atıf
+
+Bu projeyi akademik veya teknik çalışmalarınızda kullanıyorsanız, lütfen şu şekilde atıfta bulunun:
+
 ```bibtex
 @misc{altun_kale_sayzek,
-  title  = {Otonom Hava Sistemleri için Gelişmiş Görüntü İşleme Tabanlı Tehdit Tespiti, Sınıflandırma ve Kaçınma},
-  author = {Altun, Eren and Kale, Mustafa},
-  school = {Karabük Üniversitesi},
-  year   = {2026}
-}
-```
+  author       = {Altun, Eren and Kale, Mustafa},
+  title        = {Otonom Hava Sistemleri için Gelişmiş Görüntü İşleme Tabanlı Tehdit Tespiti, Sınıflandırma ve Kaçınma},
+  institution  = {Karabük Üniversitesi},
+  year         = {2026},
+  howpublished = {\url{https://github.com/ErenAltun2/Sayzek-Drone-Evasion}}
+}```
