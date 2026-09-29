@@ -117,10 +117,6 @@ Ultralytics YOLO (AGPL-3.0) kullanıldığı için bu depo **AGPL-3.0** ile lisa
 
 Bu projeyi akademik veya teknik çalışmalarınızda kullanıyorsanız, lütfen şu şekilde atıfta bulunun:
 
-## Atıf
-
-Bu projeyi akademik veya teknik çalışmalarınızda kullanıyorsanız, lütfen şu şekilde atıfta bulunun:
-
 ```bibtex
 @misc{altun_kale_sayzek,
   author       = {Altun, Eren and Kale, Mustafa},
