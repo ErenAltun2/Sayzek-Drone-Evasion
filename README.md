@@ -122,4 +122,5 @@ Bu projeyi akademik veya teknik çalışmalarınızda kullanıyorsanız, lütfen
   institution  = {Karabük Üniversitesi},
   year         = {2026},
   howpublished = {\url{https://github.com/ErenAltun2/Sayzek-Drone-Evasion}}
-}```
+}
+```
