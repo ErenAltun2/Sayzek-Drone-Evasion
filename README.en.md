@@ -116,11 +116,14 @@ This repository is licensed under **AGPL-3.0**, since it uses Ultralytics YOLO (
 
 ## Citation
 
+If you use this project in your academic or technical research, please cite it as follows:
+
 ```bibtex
 @misc{altun_kale_sayzek,
-  title  = {Advanced Image-Processing-Based Threat Detection, Classification and Evasion for Autonomous Aerial Systems},
-  author = {Altun, Eren and Kale, Mustafa},
-  school = {Karabük University},
-  year   = {2026}
+  author       = {Altun, Eren and Kale, Mustafa},
+  title        = {Advanced Image-Processing-Based Threat Detection, Classification and Evasion for Autonomous Aerial Systems},
+  institution  = {Karabuk University},
+  year         = {2026},
+  howpublished = {\url{[https://github.com/ErenAltun2/Sayzek-Drone-Evasion](https://github.com/ErenAltun2/Sayzek-Drone-Evasion)}}
 }
 ```
