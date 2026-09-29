@@ -9,6 +9,12 @@ YOLO26 ile düşman İHA tespiti, piksel tabanlı mesafe kestirimi, kural tabanl
 
 📄 [Makale](docs/paper.pdf) · 🖼️ [Poster](docs/poster.pdf) · ▶️ [Sunum videosu](https://www.youtube.com/watch?v=yl1YAEBlThU&t=23s)
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yl1YAEBlThU&t=23s">
+    <img src="https://img.youtube.com/vi/yl1YAEBlThU/maxresdefault.jpg" alt="SAYZEK Sunum Videosu" width="720">
+  </a>
+</p>
+
 ## Öne çıkan sonuçlar
 
 | Sonuç | Değer |
