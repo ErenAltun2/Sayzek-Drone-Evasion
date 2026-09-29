@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Altun"
+    given-names: "Eren"
+  - family-names: "Kale"
+    given-names: "Mustafa"
+title: "Advanced Image-Processing-Based Threat Detection, Classification and Evasion for Autonomous Aerial Systems"
+date-released: 2026-06-01
+url: "https://github.com/ErenAltun2/Sayzek-Drone-Evasion"
