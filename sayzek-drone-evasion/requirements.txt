@@ -1,7 +1,0 @@
-# ROS2 Humble, Gazebo Harmonic ve ArduPilot SITL ayrıca kurulmalıdır (pip ile gelmez).
-ultralytics
-opencv-python
-numpy
-pyyaml
-dronekit
-pymavlink
